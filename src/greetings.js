@@ -34,8 +34,8 @@ const greetings = {
   "nguyen-ha-anh": {
     name: "Nguyễn Hà Anh",
     message: [
-      "Gửi Hà Anh
-Chúc Hà Anh có 1 ngày 20/10 tuyệt vời tràn đầy may mắn, chúc cho Hà Anh có nh niềm vui tiếng cười khi, thành công nhiều hơn nữa, phát triển nhiều hơn nữa xinh đẹp hơn nữa, mong còn qua nh 20/10 với Hà Anh ạ, 1 ngày đặc biệt cho 1 ng đặc biệt nhất vs Bắp ạ. Không biết chúc gì hơnn chỉ bt nói là iu hôi náchh.-Nguyễn Quang Đức- ",
+      `Gửi Hà Anh
+Chúc Hà Anh có 1 ngày 20/10 tuyệt vời tràn đầy may mắn, chúc cho Hà Anh có nh niềm vui tiếng cười khi, thành công nhiều hơn nữa, phát triển nhiều hơn nữa xinh đẹp hơn nữa, mong còn qua nh 20/10 với Hà Anh ạ, 1 ngày đặc biệt cho 1 ng đặc biệt nhất vs Bắp ạ. Không biết chúc gì hơnn chỉ bt nói là iu hôi náchh.-Nguyễn Quang Đức- `,
       "💫 Mong bạn luôn tự tin, rạng rỡ và đạt được mọi dự định trong học tập cũng như cuộc sống.",
       "🌟 Chúc bạn nhận được thật nhiều tình yêu thương và những món quà ý nghĩa trong ngày hôm nay!"
     ]
@@ -214,6 +214,18 @@ Chúc Hà Anh có 1 ngày 20/10 tuyệt vời tràn đầy may mắn, chúc cho 
       "✨ Chúc Quang Minh ngày 20/10 thật ấm áp, luôn vui vẻ và tràn ngập niềm vui!",
       "💫 Mong bạn luôn tự tin, rạng rỡ và đạt được mọi dự định trong học tập cũng như cuộc sống.",
       "🌟 Chúc bạn nhận được thật nhiều tình yêu thương và những món quà ý nghĩa trong ngày hôm nay!"
+    ]
+  },
+  "nguyen-thi-nhu-hoa": {
+    name: "Nguyễn Thị Như Hoa",
+    message: [
+      "Con chúc cô Hoa luôn xinh đẹp, vui tươi, nhiều sức khoẻ",
+      "Ngô Quang Đức: Nhân ngày Phụ nữ Việt Nam 20/10, em xin chúc cô luôn mạnh khỏe, xinh đẹp, hạnh phúc và luôn tràn đầy nhiệt huyết với nghề. Chúc cô có thật nhiều niềm vui trong cuộc sống, luôn thành công trong sự nghiệp trồng người và mãi là người truyền cảm hứng cho chúng em. Con cảm ơn cô vì đã luôn tận tâm dạy dỗ và dìu dắt con ạ!",
+      "Con Anh Đức chúc cô Hoa nhiều sức khoẻ, luôn mỉm cười, hạnh phúc bên người thân cùng tập thể D2-K28 bọn con ạ.",
+      "Con chúc cô mạnh khoẻ , luôn vui vẻ và mạnh mẽ cùng các trò 12D2 đi nốt chuyến hành trình còn lại của tuổi học trò các thành viên trên chiếc đò của thuyền trưởng như hoa lets go lets go",
+      "Chúc cô Hoa nhiều sức khoẻ, vui vẻ hơn trong cuộc sống",
+      "Duy: con chúc cô Hoa càng ngày càng khoẻ mạnh và nhiệt huyết với sự nghiệp trồng người",
+      "Con chúc cô Hoa ngày 20/10 luôn vui vẻ, gia đình hạnh phúc, nhiều sức khoẻ và gặt hái được nhiều thành công trong công tác giảng dạy ạ"
     ]
   }
 };
