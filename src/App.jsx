@@ -157,21 +157,22 @@ export default function App() {
           </p>
         )}
       </section>
+      {/* Footer Credit cố định chân trang */}
+      <footer
+        style={{
+          position: "absolute",
+          bottom: "12px",
+          width: "100%",
+          textAlign: "center",
+          fontSize: "0.8rem",
+          color: "var(--text, #874c65)",
+          opacity: 0.8,
+          zIndex: 2,
+        }}
+      >
+        Web này được tạo bởi Vũ Hải Nam(Nom Nom)
+        Shout out tới: Lê Duy, Anh Đức, Quang Đức, Thái Thịnh, Bùi Khánh, Huy Sơn, Tùng Khánh, An Khánh, Chat GPT, Gemini
+      </footer>
     </main>
   );
 }
-{/* Footer Credit cố định chân trang */}
-  <footer style={{
-    position: "absolute",
-    bottom: "12px",
-    width: "100%",
-    textAlign: "center",
-    fontSize: "0.8rem",
-    color: "var(--text, #874c65)",
-    opacity: 0.8,
-    zIndex: 2
-  }}>
-    Web này được tạo bởi Vũ Hải Nam(Nom Nom)
-    Shout out tới: Lê Duy, Anh Đức, Quang Đức, Thái Thịnh, Bùi Khánh, Huy Sơn, Tùng Khánh, An Khánh, Chat GPT, Gemini
-  </footer>
-</main>
