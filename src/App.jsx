@@ -157,23 +157,3 @@ export default function App() {
           </p>
         )}
       </section>
-{/* Footer Credit cố định chân trang */}
-      <footer 
-        className="credit-footer"
-        style={{
-          position: "absolute",
-          bottom: "12px",
-          width: "100%",
-          textAlign: "center",
-          fontSize: "0.8rem",
-          color: "var(--text, #874c65)",
-          opacity: 0.8,
-          zIndex: 2,
-        }}
-      >
-        <p>Web này được tạo bởi Vũ Hải Nam(Nom Nom)</p>
-        <p>Shout out tới: Lê Duy, Anh Đức, Quang Đức, Thái Thịnh, Bùi Khánh, Huy Sơn, Tùng Khánh, An Khánh, Chat GPT, Gemini</p>
-      </footer>
-    </main>
-  );
-}
