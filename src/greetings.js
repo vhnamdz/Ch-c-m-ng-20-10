@@ -156,7 +156,7 @@ Chúc Hà Anh có 1 ngày 20/10 tuyệt vời tràn đầy may mắn, chúc cho 
     name: "Nguyễn Ngọc Phương Ly",
     message: [
       "✨ Chúc Phương Ly ngày 20/10 thật ấm áp, luôn vui vẻ và tràn ngập niềm vui!",
-      "💫 Mong bạn luôn tự tin, rạng rỡ và đạt được mọi dự định trong học tập cũng như cuộc sống.",
+      "chúc bạn cuộc đời toàn W, vận may bật cheat code, hạnh phúc full HD, thành công 4K, aura vượt giới hạn vũ trụ, mãi mãi là trùm cuối của chính cuộc đời mình 🗿👑🔥",
       "🌟 Chúc bạn nhận được thật nhiều tình yêu thương và những món quà ý nghĩa trong ngày hôm nay!"
     ]
   },
