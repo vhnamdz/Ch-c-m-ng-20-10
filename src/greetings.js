@@ -34,7 +34,8 @@ const greetings = {
   "nguyen-ha-anh": {
     name: "Nguyễn Hà Anh",
     message: [
-      "✨ Chúc Hà Anh ngày 20/10 thật ấm áp, luôn vui vẻ và tràn ngập niềm vui!",
+      "Gửi Hà Anh
+Chúc Hà Anh có 1 ngày 20/10 tuyệt vời tràn đầy may mắn, chúc cho Hà Anh có nh niềm vui tiếng cười khi, thành công nhiều hơn nữa, phát triển nhiều hơn nữa xinh đẹp hơn nữa, mong còn qua nh 20/10 với Hà Anh ạ, 1 ngày đặc biệt cho 1 ng đặc biệt nhất vs Bắp ạ. Không biết chúc gì hơnn chỉ bt nói là iu hôi náchh.-Nguyễn Quang Đức- ",
       "💫 Mong bạn luôn tự tin, rạng rỡ và đạt được mọi dự định trong học tập cũng như cuộc sống.",
       "🌟 Chúc bạn nhận được thật nhiều tình yêu thương và những món quà ý nghĩa trong ngày hôm nay!"
     ]
